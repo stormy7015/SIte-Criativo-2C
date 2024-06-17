@@ -1,8 +1,17 @@
 body{
     background-color: #424e61;
  color: white;
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+ padding: 24px;
 } 
 
 .cabecario_image{
     width: 20%;
+}
+
+cabecalho-lista-item{
+
+    display: inline-block;
 }
