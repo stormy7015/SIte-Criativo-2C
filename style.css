@@ -23,5 +23,10 @@ cabecalho-lista-item{
     font-size: 24px;
 }
 
-.escola-imagem
-with5
+.escola-image{
+   width: 25%;
+}
+.escola{
+    background-image: -moz-repeating-linear-gradient(#424e61,#4ebfe9
+    );
+}
